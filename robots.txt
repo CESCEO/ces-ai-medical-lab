@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cesceo.github.io/ces-ai-medical-lab/sitemap.xml

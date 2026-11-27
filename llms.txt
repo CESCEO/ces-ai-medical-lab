@@ -1,0 +1,15 @@
+# CES AI Medical Sales Lab
+> SUMEX가 운영하는 한국어 의료·의료기기 뉴스 브리핑 사이트. 매일 병원가, 의료진, 국내 의료기기, 글로벌 메드텍, 정책·산업 뉴스를 출처 링크와 함께 요약한다.
+
+## 페이지
+- [소개](https://cesceo.github.io/ces-ai-medical-lab/about.html)
+- [자주 묻는 질문](https://cesceo.github.io/ces-ai-medical-lab/faq.html)
+- [MEDICAL NEWS](https://cesceo.github.io/ces-ai-medical-lab/categories/medical-news.html): 매일 아침 9시 데일리 헬스케어 브리핑. 국내외 공신력 있는 출처의 병원·의료기기·정책 뉴스를 5개 섹션으로 정리합니다.
+- [ARTHRO](https://cesceo.github.io/ces-ai-medical-lab/categories/arthro.html): 관절경·정형외과 장비와 술기 정보.
+- [LAPARO](https://cesceo.github.io/ces-ai-medical-lab/categories/laparo.html): 복강경·일반외과 최소침습수술 장비 정보.
+- [INSTRUMENTS](https://cesceo.github.io/ces-ai-medical-lab/categories/instruments.html): 수술 기구와 소모품 정보.
+- [AI SALES](https://cesceo.github.io/ces-ai-medical-lab/categories/ai-sales.html): AI로 일하는 의료기기 영업 자동화.
+
+## 최신 브리핑
+- [2026-11-27 [MEDICAL NEWS] 2026년 11월 27일 의료 뉴스: 중환자실 전담전문의 37.6%, 손목 관절경 6년 추적, FDA 대장수술 감염 치료제 승인](https://cesceo.github.io/ces-ai-medical-lab/posts/2026-11-27.html)
+- [2026-11-26 [MEDICAL NEWS] 2026년 11월 26일 의료 뉴스: 로봇수술 3,000례, 국산 수술로봇 유럽 수출, 자율형 정형외과 로봇 FDA 신청](https://cesceo.github.io/ces-ai-medical-lab/posts/2026-11-26.html)
