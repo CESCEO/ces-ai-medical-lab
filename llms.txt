@@ -11,5 +11,6 @@
 - [AI SALES](https://cesceo.github.io/ces-ai-medical-lab/categories/ai-sales.html): AI로 일하는 의료기기 영업 자동화.
 
 ## 최신 브리핑
+- [2026-11-28 [MEDICAL NEWS] 2026년 11월 28일 의료 뉴스: 로봇수술 2000례, 서울대병원 AI 심박출량 소프트웨어, 공공정책급여 입법예고](https://cesceo.github.io/ces-ai-medical-lab/posts/2026-11-28.html)
 - [2026-11-27 [MEDICAL NEWS] 2026년 11월 27일 의료 뉴스: 중환자실 전담전문의 37.6%, 손목 관절경 6년 추적, FDA 대장수술 감염 치료제 승인](https://cesceo.github.io/ces-ai-medical-lab/posts/2026-11-27.html)
 - [2026-11-26 [MEDICAL NEWS] 2026년 11월 26일 의료 뉴스: 로봇수술 3,000례, 국산 수술로봇 유럽 수출, 자율형 정형외과 로봇 FDA 신청](https://cesceo.github.io/ces-ai-medical-lab/posts/2026-11-26.html)
